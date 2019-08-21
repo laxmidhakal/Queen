@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Queen</string>
+    <string name="laxmi">Hey laxmi</string>
+    <string name="ac">your account has been credited</string>
+    <string-array name="Spinner_Items">
+        <item>laxmi</item>
+        <item>dhakal</item>
+    </string-array>
+</resources>
